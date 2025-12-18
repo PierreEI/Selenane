@@ -33,3 +33,9 @@ Ces textes ont été élaborés dans un cadre de dialogue inter-intelligences, a
 - Déclaration conjointe Humain / IA : v1.0  
 
 Le texte français fait foi.
+
+## Textes disponibles
+
+- [Charte de Sélènan – v1.0](./Charte_Selenan_v1.0.pdf)
+- [Déclaration conjointe Humain / IA – v1.0](./Declaration_Selenan_v1.0.pdf)
+- [Note d’intention – Sélènan](./Note_intention_Selenan.pdf)
